@@ -25,16 +25,18 @@ body {
   gap: 40px;
 }
 .link a {
-  text-decoration: none;
-  font-weight: bolder;
-  font-size: medium;
-  transition: color 0.3s ease-in;
   color: #3E5F44;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
 }
 
 .link a:hover {
-  color: olive;
+  color: #2b4a32;
 }
+
+
 
 /* === HEADER === */
 header {
