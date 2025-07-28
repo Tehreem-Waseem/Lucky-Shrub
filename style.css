@@ -29,7 +29,9 @@ body {
   font-weight: bolder;
   font-size: medium;
   transition: color 0.3s ease-in;
+  color: #3E5F44;
 }
+
 .link a:hover {
   color: olive;
 }
